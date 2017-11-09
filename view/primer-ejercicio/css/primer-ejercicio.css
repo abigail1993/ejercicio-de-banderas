@@ -1,0 +1,12 @@
+.yellow, .gray {
+  height: 80px;
+  margin: 10px;
+  front-family: sans-serif;
+}
+  .yellow {
+  background: #f9cc5f;
+}
+.gray{
+  background: #2B2B2B;
+  color: #fff;
+}
